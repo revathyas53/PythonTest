@@ -11,7 +11,6 @@ import math
 
 class SquareRoot:
 
-    # List Numbers to find Square root
 
     def calculate_square_root(self, N):
         n = N
